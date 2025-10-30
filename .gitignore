@@ -1,0 +1,9 @@
+# Ignore environment and secret files
+.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings (optional)
+.vscode/
